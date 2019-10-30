@@ -1,0 +1,12 @@
+h1 {
+    color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32pt;
+    text-align: center;
+}
+p{
+   color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12pt;
+}

@@ -1,0 +1,40 @@
+body{
+    background: url(img/richard-unsplash.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+ul{
+list-style-type: decimal-leading-zero
+}
+img{
+    width: 400px;
+}
+img:hover{
+filter: hue-rotate(85deg);
+filter: sepia(79%);
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 2pt;
+
+}
+th{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45pt;
+    color: #263526;
+    text-align: center;
+}
+table{
+    margin: 100px;
+}
+p{
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 13pt;
+    text-align: justify;
+    text-shadow: #263526 1px 1px;
+    color: whitesmoke
+
+}
